@@ -1,2 +1,0 @@
-Timestamp,UnitID,Voltage,Current,Temperature,Status,FailReason
-2026-06-05 01:53:50,1,5.8,1.1,25.0,FAIL,Volt_HIGH
