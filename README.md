@@ -34,9 +34,9 @@ python main.py
 
 ## Sample Output
 
-==================================================
+
        FUNCTIONAL TEST REPORT
-==================================================
+
 Date     : 2026-06-06 17:22:24
 Product  : BATTERY
 Station  : BATT-001
