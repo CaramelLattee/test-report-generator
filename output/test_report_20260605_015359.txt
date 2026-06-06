@@ -1,0 +1,28 @@
+==================================================
+       FUNCTIONAL TEST REPORT
+==================================================
+Date     : 2026-06-05 01:53:59
+Product  : Battery
+Station  : TS-008
+Operator : Hafizul
+Spec V   : 4.5V - 5.5V
+Spec I   : 0.8A - 1.2A
+Spec T   : 20C - 35C
+--------------------------------------------------
+Unit  Volt    Curr    Temp    Status  Reason
+--------------------------------------------------
+1     5.8     1.1     25.0    FAIL    Volt_HIGH
+--------------------------------------------------
+TOTAL    : 1 units
+PASS     : 0 units
+FAIL     : 1 units
+FPY      : 0.0%
+--------------------------------------------------
+STATISTICS:
+Volt Max : 5.8V
+Volt Min : 5.8V
+Volt Avg : 5.80V
+Curr Max : 1.1A
+Curr Min : 1.1A
+Curr Avg : 1.10A
+==================================================
